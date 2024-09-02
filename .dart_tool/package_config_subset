@@ -22,10 +22,6 @@ collection
 2.12
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/lib/
-cupertino_icons
-2.0
-file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3/
-file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3/lib/
 fake_async
 2.12
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0/
@@ -42,6 +38,10 @@ js
 2.16
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/lib/
+lints
+2.17
+file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.1/
+file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.1/lib/
 matcher
 2.12
 file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11/
@@ -114,8 +114,4 @@ file_picker
 2.17
 file:///Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/
 file:///Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/lib/
-file_picker_example
-2.12
-file:///Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/
-file:///Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/lib/
 2

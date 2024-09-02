@@ -38,12 +38,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "cupertino_icons",
-      "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "fake_async",
       "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0",
       "packageUri": "lib/",
@@ -52,12 +46,6 @@
     {
       "name": "ffi",
       "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-2.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "file_picker",
-      "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -90,6 +78,12 @@
       "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
       "packageUri": "lib/",
       "languageVersion": "2.16"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "matcher",
@@ -176,13 +170,13 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "file_picker_example",
+      "name": "file_picker",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-09-02T10:35:17.099873Z",
+  "generated": "2024-09-02T10:35:16.849339Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }
