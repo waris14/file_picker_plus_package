@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/emp20220022/.gradle/caches/transforms-2/files-2.1/736821b08ce43c689e56359e237cf55e/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/emp20220022/.gradle/caches/transforms-2/files-2.1/736821b08ce43c689e56359e237cf55e/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/emp20220022/.gradle/caches/transforms-2/files-2.1/736821b08ce43c689e56359e237cf55e/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/emp20220022/.gradle/caches/transforms-2/files-2.1/736821b08ce43c689e56359e237cf55e/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/emp20220022/trt-raza/DevPackages/file_picker_plus_package/file_picker_plus_flutter/example/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/emp20220022/.gradle/caches/transforms-2/files-2.1/736821b08ce43c689e56359e237cf55e/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

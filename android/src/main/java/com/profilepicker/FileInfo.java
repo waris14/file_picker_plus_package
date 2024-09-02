@@ -1,4 +1,4 @@
-package com.mr.flutter.plugin.filepicker;
+package com.profilepicker;
 
 import android.net.Uri;
 
