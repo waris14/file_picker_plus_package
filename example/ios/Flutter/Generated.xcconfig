@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Applications/Development/flutter
-FLUTTER_APPLICATION_PATH=/Users/emp20220022/trt-raza/DevPackages/file_picker_plus/example
+FLUTTER_APPLICATION_PATH=/Users/emp20220022/trt-raza/DevPackages/pro_file_picker/example
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build

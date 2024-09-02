@@ -56,12 +56,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "file_picker",
-      "rootUri": "../../",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///Applications/Development/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -118,6 +112,12 @@
     {
       "name": "plugin_platform_interface",
       "rootUri": "file:///Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pro_file_picker",
+      "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-09-02T10:35:17.099873Z",
+  "generated": "2024-09-02T12:26:54.623597Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }
