@@ -1,9 +1,9 @@
 name: pro_file_picker
 description: A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support.
-homepage: https://github.com/miguelpruivo/plugins_flutter_file_picker
-repository: https://github.com/miguelpruivo/flutter_file_picker
-issue_tracker: https://github.com/miguelpruivo/flutter_file_picker/issues
-version: 1.0.1
+homepage: https://github.com/waris14/file_picker_plus_package
+repository: https://github.com/waris14/file_picker_plus_package
+issue_tracker: https://github.com/waris14/file_picker_plus_package/issues
+version: 1.0.2
 
 dependencies:
   flutter:

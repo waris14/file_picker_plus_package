@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Fixed github repo.
+
 ## 1.0.1
 
 * Fixed pod file issue.
